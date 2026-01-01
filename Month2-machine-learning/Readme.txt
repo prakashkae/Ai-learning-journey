@@ -5,7 +5,7 @@ that can learn from and make predictions or decisions based on data, without bei
 
                         
 2.how it works
-machine learning works by training models on large datasets,
+machine learning works by training models on large datasets, 
  allowing them to identify patterns and make predictions or decisions based on that data. 
  The models learn from the data through a process of optimization, 
  where they adjust their parameters to minimize a loss function 
